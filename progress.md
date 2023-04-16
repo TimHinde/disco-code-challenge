@@ -74,5 +74,4 @@
 ### Hurdles
 - Django Rest Framework csrf validation found a workaround creating a custom middleware
 - Django Rest Framework user creation and authentication admin user works but unablet o login with user created by admin
->>>>>>> cb69355cd34d1d887f29e0eab7662651bd3d2f01
 - Django Rest Framework inflexible POST body requirements and not recieving body of request (unable to use postman or requests) found a workaround with httpie
